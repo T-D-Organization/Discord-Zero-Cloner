@@ -38,10 +38,6 @@ git clone https://github.com/more_dark/Discord-Zero-Cloner.git
 cd Discord-Zero-Cloner
 ```
 ```bash
-pip install -r requirements.txt
-python zero-cloner.py
-```
-```bash
 # Create virtual environment
 python3 -m venv venv
 
@@ -52,6 +48,10 @@ venv\Scripts\activate     # Windows
 
 # Install dependencies
 pip install -r requirements.txt
+```
+```bash
+pip install -r requirements.txt
+python zero-cloner.py
 ```
 
 ### Prerequisites
