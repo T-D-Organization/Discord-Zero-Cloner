@@ -36,7 +36,7 @@ class UltraFastCloner:
 ║                          ║     ZERO CLONER - DISCORD SERVER TOOL  ║                        ║
 ║                          ╚════════════════════════════════════════╝                        ║
 ║                                                                                            ║
-║                        🚀 Zero-Cloner by T-D Organisation | v2.0 🚀                        ║
+║                        🚀 Zero-Cloner by T-D Organisation | v1.0 🚀                        ║
 ║                                                                                            ║
 ╚════════════════════════════════════════════════════════════════════════════════════════════╝
         """
