@@ -71,7 +71,7 @@ python zero-cloner.py
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ### Prerequisites
 - Python 3.8+ (Download from [python.org](https://python.org))
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ### Quick Install (One File)
 ```bash
 # Linux / macOS
