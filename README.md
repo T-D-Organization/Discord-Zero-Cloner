@@ -34,7 +34,6 @@ T-D ORGANISATION (TEAM-DARK) X 𝐍𝐄𝐗𝐔𝐒 & 𝐗𝐘𝐓𝐇𝐄𝐑
 ## 🔥 **Overview**
 
 **Discord-Zero-Cloner** is a professional-grade, command-line tool designed for **rapid server cloning** on Discord. Single-file deployment, cross-platform compatibility, and zero dependencies beyond Python standard library.
-https://discord.gg/SzWt6yhMm5
 - **Fully Undetectable (FUD)** – No rate limits triggered  
 - **Bulletproof Architecture** – Handles large servers (10k+ members)  
 - **Stealth Mode** – No logs, no footprints, no alerts  
